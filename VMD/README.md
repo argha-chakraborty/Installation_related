@@ -7,6 +7,7 @@ untar the source code file in the same directory
 
 ```bash
 tar -xf vmd-1.x.xxx.xxxxx.tar.gz
+cd vmd-1.x.xxx.xxxxx
 ```
 
 Configure the build in the same directory
