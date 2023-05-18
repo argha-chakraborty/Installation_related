@@ -8,6 +8,9 @@ Untar the cmake-3.xx.x-linux-x86_64.tar.gz file
 ```bash
 tar -xvf cmake-3.xx.x-linux-x86_64.tar.gz
 ```
+```bash
+cd cmake-3.xx.x-linux-x86_64
+```
 
 Now to install in specified directory "build-location/cmake"
 
