@@ -1,9 +1,6 @@
 OpenMM has dependency on Python, Cmake, Doxygen and Swig 
 
-Install [Python3](https://github.com/argha-chakraborty/Installation_related/tree/main/Python3)
-Install [Cmake](https://github.com/argha-chakraborty/Installation_related/tree/main/cmake)
-Install [Doxygen](https://github.com/argha-chakraborty/Installation_related/tree/main/doxygen)
-Install [Swig](https://github.com/argha-chakraborty/Installation_related/tree/main/swig)
+Install [Python3](https://github.com/argha-chakraborty/Installation_related/tree/main/Python3); [Cmake](https://github.com/argha-chakraborty/Installation_related/tree/main/cmake); [Doxygen](https://github.com/argha-chakraborty/Installation_related/tree/main/doxygen) and [Swig](https://github.com/argha-chakraborty/Installation_related/tree/main/swig)
 
 
 Clone the OpennMM source code from [github-page](https://github.com/openmm/openmm) and move it to the desired directory "softwares"
