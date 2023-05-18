@@ -25,4 +25,4 @@ Now to install
 ```bash
 sudo make install
 ```
-VMD installation complete. Enjoy!
+VMD installation complete. Enjoy!!
