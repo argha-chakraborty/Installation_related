@@ -8,9 +8,7 @@
    ```bash
    sudo apt-get install openmpi-bin openmpi-common libopenmpi-dev libgtk2.0-dev
    ```
-
 2. Download the openmpi-4.x.x.tar.gz file from [official website](https://www.open-mpi.org/software/ompi/v4.1/) and move to desired directory say 'softwares'
-
    Untar the file
 
    ```bash
@@ -20,7 +18,6 @@
    cd openmpi-4.x.x
    ```
 3. Install openmpi
-
    ```bash
    ./configure --prefix="/path/to/prefix/openmpi"
    ```
@@ -30,7 +27,6 @@
    ```bash
    make install
    ```
-
 4. Export path
 
    ```bash
