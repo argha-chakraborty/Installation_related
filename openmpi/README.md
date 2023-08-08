@@ -16,7 +16,28 @@
    ```bash
    tar -zxvf openmpi-4.x.x.tar.gz
    ```
-  ```bash
-  cd openmpi-4.x.x
-  ```
+   ```bash
+   cd openmpi-4.x.x
+   ```
+3. Install openmpi
+
+   ```bash
+   ./configure --prefix="/path/to/prefix/openmpi"
+   ```
+   ```bash
+   make
+   ```
+   ```bash
+   make install
+   ```
+
+4. Export path
+
+   ```bash
+   export PATH="$PATH:/path/to/prefix/openmpi/bin"
+   ```
+   ```bash
+   export LD_LIBRARY_PATH="$LD_LIBRARY_PATH:/path/to/prefix/openmpi/lib"
+   ```
+   
    
