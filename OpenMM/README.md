@@ -1,4 +1,4 @@
-OpenMM has dependency on Python, Cmake, Doxygen and Swig 
+OpenMM has dependency on Python, Doxygen and Swig 
 
 Install [Python3](https://github.com/argha-chakraborty/Installation_related/tree/main/Python3); [Cmake](https://github.com/argha-chakraborty/Installation_related/tree/main/cmake); [Doxygen](https://github.com/argha-chakraborty/Installation_related/tree/main/doxygen) and [Swig](https://github.com/argha-chakraborty/Installation_related/tree/main/swig)
 
